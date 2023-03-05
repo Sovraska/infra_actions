@@ -4,7 +4,7 @@ from django.http import HttpResponse
 def index(request):
     return HttpResponse(
         'У меня получилось! ДА РЕальн '
-        'оДЕплой по пушу РОБИТ  АЛИлуя'
+        'Тест Сообщения в тг после деплоя'
     )
 
 
